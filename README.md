@@ -37,7 +37,7 @@ My name is Najwa ZRAIDI, and I am a student of Software Engineering at Enset Moh
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,graphql,php,java,spring,mysql,firebase,figma,css,bootstrap,html,c,javascript,typescript,docker,mongodb,redis,postman,linux,matlab,angular,mssql,selenium,postman,linux,git,arduino" />
+      <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,graphql,php,java,spring,mysql,firebase,figma,css,bootstrap,html,c,javascript,typescript,docker,mongodb,redis,postman,linux,matlab,angular,selenium,postman,linux,git,arduino" />
     </a>
   </p>
 </div>
