@@ -28,7 +28,7 @@ let's programming </h3>
 </div>
 
 ### :woman_technologist: About Me : 
-My name is Najwa ZRAIDI, I am a student of Software Engineering at Enset Mohammedia :woman_student:.<br  />
+My name is Najwa ZRAIDI, I am Software Engineering at Enset Mohammedia :woman_student:.<br  />
 😄 I have a strong passion for web and mobile development and consider myself a perpetual learner in this field. Being an ardent coder, I enjoy experimenting with cutting-edge technologies and frameworks to develop visually stunning, responsive, and dynamic web applications. From front-end design to back-end development to full-stack integration, I am always eager to explore new avenues.<br  />
 :writing_hand: During my leisure time, I devote myself to learning novel things.<br  />
 
